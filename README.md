@@ -17,6 +17,11 @@ The dataset used in this project contains the following features:
 
 The target variable is the salary of the engineering graduate.
 
+## Source
+The dataset can be downloaded from below link.
+
+Dataset: https://drive.google.com/file/d/13fgjGI3uGlnEqefpZ72JsWLqXqveNKo1/view?usp=sharing
+
 ## Techniques Used
 - Support Vector Machine (SVM): Utilizing the SVM algorithm for regression to predict the salary based on the input features.
 - Data Preprocessing: Cleaning the dataset, handling missing values, encoding categorical variables, and scaling numerical features.
